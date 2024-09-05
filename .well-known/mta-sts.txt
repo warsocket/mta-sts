@@ -1,3 +1,5 @@
 version: STSv1
+mx: mail.protonmail.ch
+mx: mailsec.protonmail.ch
 mode: none
-max_age: 300
+max_age: 86400
